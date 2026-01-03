@@ -1,0 +1,1062 @@
+[33mcommit a9cd5ffd3f134cd25da2f9b0fbea00481edc77b7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ba86b0da 952f5290
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Feb 20 15:17:57 2025 -0500
+
+    Merge pull request #2 from rosinni/main
+    
+    update node
+
+[33mcommit 952f52909b95560f7775e89321fff41d46c4e248[m
+Author: Rosinni Rodríguez <43686922+rosinni@users.noreply.github.com>
+Date:   Mon Feb 17 15:31:19 2025 +0100
+
+    Update style.css
+
+[33mcommit 83d6f064ecf1d8fbbc058713c76765c50240c083[m
+Author: Rosinni Rodríguez <43686922+rosinni@users.noreply.github.com>
+Date:   Mon Feb 17 15:25:34 2025 +0100
+
+    Update package.json
+
+[33mcommit ba86b0dac63796fffea4a3fb4ddf863dc3423bdc[m
+Merge: 3cf1a481 adf495f5
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Feb 3 15:52:18 2025 -0500
+
+    Merge pull request #1 from 4GeeksAcademy/next
+    
+    Next
+
+[33mcommit adf495f519274aafea667e2c96b19c7c66578603[m
+Merge: 690bb316 3cf1a481
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Feb 3 15:52:13 2025 -0500
+
+    Merge branch 'main' into next
+
+[33mcommit 690bb31682cb32a03cd4e0dd0ceb38a2c704fa54[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Dec 2 16:22:57 2024 -0500
+
+    Create README.es.md
+
+[33mcommit 3cf1a4810fbda1d0f204267b79bebaca20d93c62[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Dec 2 17:40:42 2024 +0000
+
+    stoped learnpack autoplay from trigerring
+
+[33mcommit f7d122065181ddc7f50bc33df5e8d6edf9515c7d[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Nov 26 17:31:16 2024 -0500
+
+    Create learn.json
+
+[33mcommit 903ee0798bc1cc5834030a5de4b2437dba326338[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Nov 26 17:23:51 2024 -0500
+
+    Update README.md
+
+[33mcommit 8c8727a5f25ef1f9b74389765c9965afe42c9d83[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Nov 26 17:23:26 2024 -0500
+
+    Update README.md
+
+[33mcommit ebcc549faa167803c2ba31d6f882d10178dbe1eb[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue May 28 15:20:10 2024 -0400
+
+    Update README.es.md
+
+[33mcommit 962495cd318b31e92d1b58e747fef609e83930bb[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue May 28 15:19:17 2024 -0400
+
+    Update README.md
+
+[33mcommit d3cdcb615b020b218559716eb8446d87e3993922[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue May 28 15:17:43 2024 -0400
+
+    Update README.md
+
+[33mcommit d4a3f0959cc9476bbdedf57fcb4fa3ab7d0d6fd4[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue May 28 15:15:24 2024 -0400
+
+    Create README.es.md
+
+[33mcommit e191e0e7f0b6695dc4b194ddd56fe418b28b6bbd[m
+Merge: 33ebe75f 65080525
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 5 11:27:10 2024 -0500
+
+    Merge pull request #89 from breatheco-de/main
+    
+    Fixed vercel and other minor details
+
+[33mcommit 33ebe75f46bc36fcfdfe105a67894783c2274129[m
+Merge: d41ad231 8a60ec8b
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 5 11:26:15 2024 -0500
+
+    Merge pull request #88 from deimianvasquez/main
+    
+    merging with next
+
+[33mcommit 65080525adc5ccebfb32e2041f421efdc56eef8b[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 5 15:02:27 2024 +0000
+
+    fixed deploying to vercel
+
+[33mcommit 64774bdde75919ccce8c730c07309aa8851ff406[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Apr 4 15:20:21 2024 +0000
+
+    moved the dist folder to the root in compliance with vercel
+
+[33mcommit 42c49e96825d9c6bdd19a415fb674379773a50b9[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Apr 4 15:15:31 2024 +0000
+
+    updated node to version 20
+
+[33mcommit 8a60ec8b95f4614c70931dd7f89a190b9123ba1c[m
+Author: Deimian Vásquez <deimianvasquez@gmail.com>
+Date:   Wed Apr 3 22:35:34 2024 -0400
+
+    add devcontainer
+
+[33mcommit ebd091cfa75f63ac3a4e1d7ba7f7eeb5b3a84eac[m
+Author: Deimian Vásquez <deimianvasquez@gmail.com>
+Date:   Wed Apr 3 22:30:35 2024 -0400
+
+    add readme
+
+[33mcommit 63e1f07fadbf52c51e20493b7e6b98a919c8e176[m
+Author: Deimian Vásquez <deimianvasquez@gmail.com>
+Date:   Wed Apr 3 22:26:11 2024 -0400
+
+    change port
+
+[33mcommit fb41bac4eab6db8bd959dc5ee00baba3f44648a2[m
+Author: Deimian Vásquez <deimianvasquez@gmail.com>
+Date:   Wed Apr 3 22:23:20 2024 -0400
+
+    initial commit
+
+[33mcommit d41ad231c9636efb284418424edb84fcb4096261[m
+Merge: a1c6eced 7f9b1765
+Author: Tomas Gonzalez <56565994+tommygonzaleza@users.noreply.github.com>
+Date:   Wed May 31 13:05:37 2023 -0400
+
+    Merge pull request #69 from josemoracard/jose1-readme
+    
+    fixed text README.md
+
+[33mcommit 7f9b17659088e889ee8228ba41d66c156c9d5d3c[m
+Author: Jose Mora <109150320+josemoracard@users.noreply.github.com>
+Date:   Wed May 31 17:48:55 2023 +0200
+
+    Update README.md
+
+[33mcommit a1c6eced3c883a5c610b34a4be2da2b0fd85f112[m
+Merge: 752db07f 9b6fdbbf
+Author: Tomas Gonzalez <56565994+tommygonzaleza@users.noreply.github.com>
+Date:   Wed May 10 17:45:20 2023 -0400
+
+    Merge pull request #66 from Lorenagubaira/vanillajs-hello.bp
+    
+    the settings.json file was updated
+
+[33mcommit 9b6fdbbfd262f02b89a55ee400547bcb74698136[m
+Author: lorenagubaira <102861577+Lorenagubaira@users.noreply.github.com>
+Date:   Mon May 8 12:22:17 2023 +0000
+
+    the settings.json file was updated
+
+[33mcommit 752db07f8aaf5076e423182dc04647ae25875097[m
+Author: Tomas Gonzalez <56565994+tommygonzaleza@users.noreply.github.com>
+Date:   Fri May 5 12:25:34 2023 -0400
+
+    node version set to 16 on gitpod as well
+
+[33mcommit f7c039ebf94898d6ff8d06f60295417e4ebb4ab7[m
+Merge: c8e81c8b 73f1fc36
+Author: Tomas Gonzalez <56565994+tommygonzaleza@users.noreply.github.com>
+Date:   Thu Apr 27 17:51:44 2023 -0400
+
+    Merge pull request #64 from Lorenagubaira/vanillajs-hello
+    
+    the settings.json file was updated
+
+[33mcommit 73f1fc360f2231da37edb0f7dd0d13fb88904a42[m
+Author: lorenagubaira <102861577+Lorenagubaira@users.noreply.github.com>
+Date:   Tue Apr 18 20:45:32 2023 +0000
+
+    the settings.json file was updated
+
+[33mcommit c8e81c8b6c9ce5c2b55b093e56ce59f7fd130d91[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Apr 8 23:08:56 2023 +0000
+
+    no need for legacy provider on node 16, dev container now has node 16
+
+[33mcommit bebac466875b19bd94a4cb3deb8a896a3d61db68[m
+Merge: 502f74bd cd4920aa
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 4 11:56:15 2023 -0400
+
+    Merge pull request #59 from deimianvasquez/main
+    
+    add node_options in the script start
+
+[33mcommit cd4920aa6ed76ef84aef79a4ab09292d844e53c9[m
+Author: deimianvasquez <deimianvasquez@gmail.com>
+Date:   Tue Apr 4 13:35:11 2023 +0000
+
+    add node_options in the script start
+
+[33mcommit 502f74bd4d204a9f1d048488175f095236c09d54[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Mar 29 22:30:56 2023 -0400
+
+    Update README.md
+
+[33mcommit 99b9770da92971c2907ce9f8a99993ff190a7516[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Mar 14 18:13:58 2023 -0400
+
+    Update README.md
+
+[33mcommit 91af4645a7dc5229e70212315d465a67645b3c69[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Feb 14 00:29:17 2023 -0500
+
+    Update README.md
+
+[33mcommit 6075cfc681cc9070e45070008696e3ace6dc3944[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Feb 14 00:28:33 2023 -0500
+
+    Update README.md
+
+[33mcommit a29049842af533a15617130c188db152ce9c3a43[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Feb 11 17:42:22 2023 +0000
+
+    npm install by default
+
+[33mcommit afcea612d6a24ff88c5f4a72abfa56cd6f68204e[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Feb 11 17:37:58 2023 +0000
+
+    open markdown as preview already
+
+[33mcommit dd5378a211aa556aeee48907f770ec5841d417a4[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Feb 11 17:37:44 2023 +0000
+
+    open markdown as preview already
+
+[33mcommit 402db88b39563b8f70e113f9e87dcea68884fec9[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Feb 11 16:48:51 2023 +0000
+
+    forwared port
+
+[33mcommit 0e2cb07896402d886e24124f2288fd63b5e62237[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Feb 10 21:25:36 2023 +0000
+
+    added devcontainer
+
+[33mcommit e431f35d585a97026d5acb4280f578868c81a2ae[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Dec 8 18:42:36 2021 -0500
+
+    Create settings.json
+
+[33mcommit d1f10cef1c00392b7f2f5032def7aef292b609d6[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Dec 8 18:41:59 2021 -0500
+
+    Update .gitpod.yml
+
+[33mcommit aedc52bed3d75db195567277e4e3aa955207d1da[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 21:07:21 2021 -0400
+
+    Update package.json
+
+[33mcommit 22267fb929d06d35ea8b0288a5b9a45237596bf5[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 14:59:23 2021 -0400
+
+    Update .gitpod.yml
+
+[33mcommit 24d8de519dd488deaee59a4bb3fc8998852068b5[m
+Merge: 8ca1bc70 caa20063
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 17 11:36:00 2021 -0400
+
+    Merge pull request #23 from tommygonzaleza/main
+    
+    Bootstrap version updated
+
+[33mcommit caa2006370a090aa89b4379e16acc74f490f998e[m
+Author: Tomas Gonzalez <gonzalez.tommy2001@gmail.com>
+Date:   Thu Sep 16 23:10:43 2021 +0000
+
+    Bootstrap version updated
+
+[33mcommit 8ca1bc701777e9c63686fad92aa54aeaf5732fc8[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Feb 19 05:16:30 2021 +0000
+
+    fixed hot deploy
+
+[33mcommit 9ba1f368e7621f8c91f5790308ca55acea075052[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Feb 11 17:25:56 2021 -0500
+
+    Update webpack.config.js
+
+[33mcommit e33db8fc21b7eb78ab17cbd4dd90ce4924288913[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Feb 11 17:00:40 2021 -0500
+
+    Update webpack.config.js
+
+[33mcommit 778eb8fbe5890f8fd0bd2f0260fc623ba669579f[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Dec 8 18:42:31 2020 +0000
+
+    hot deploy
+
+[33mcommit 9c8252185bbd8c687a0f865a0762fb9fd1368cf5[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Dec 8 13:30:08 2020 -0500
+
+    Update package.json
+
+[33mcommit 726660f41fd1f0e324e3d7a9ef4541aaa5400793[m
+Merge: ec65c8c3 4333a72f
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Nov 9 14:42:23 2020 -0500
+
+    Merge pull request #20 from unocongafas/feature/webpack
+    
+    Optimizada la configuración de webpack
+
+[33mcommit 4333a72fe501d741cb62a7d216511ad1452e4798[m
+Author: unocongafas <unocongafas@gmail.com>
+Date:   Sat Oct 31 18:35:32 2020 +0000
+
+    Removed @babel/plugin-proposal-class-properties & babel-plugin-transform-class-properties
+
+[33mcommit a7b4607f7fd07c3df17a8d968454cf29a0d4144a[m
+Author: unocongafas <unocongafas@gmail.com>
+Date:   Sat Oct 31 18:23:29 2020 +0000
+
+    Remove unused webpack plugin
+
+[33mcommit 6eeba2f1f17d2ba4f048226d16f5eb34b10280fc[m
+Author: unocongafas <unocongafas@gmail.com>
+Date:   Sat Oct 31 18:15:07 2020 +0000
+
+    Relocate main stylesheet and remove unused webpack loaders
+
+[33mcommit 6b66e2c23927016546dbcbdeaa52830b5ef3b9dd[m
+Author: unocongafas <unocongafas@gmail.com>
+Date:   Sat Oct 31 17:40:49 2020 +0000
+
+    Relocated entry file by most common place
+
+[33mcommit 88cd9670b68a29d40a91779fff053503cb23defe[m
+Author: unocongafas <unocongafas@gmail.com>
+Date:   Sat Oct 31 17:32:02 2020 +0000
+
+    Improve start command
+
+[33mcommit ec65c8c3d5b57a8f6c81a08f19470698e1425d4b[m
+Merge: 7496d6fe a046d2db
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Sep 15 00:54:35 2020 -0400
+
+    Merge pull request #18 from 4GeeksAcademy/dependabot/npm_and_yarn/http-proxy-1.18.1
+    
+    Bump http-proxy from 1.18.0 to 1.18.1
+
+[33mcommit 7496d6fe7836f179ff92f0b83f4dc964f1425000[m
+Merge: 659495e5 6bf9523f
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Sep 15 00:54:22 2020 -0400
+
+    Merge pull request #19 from 4GeeksAcademy/dependabot/npm_and_yarn/node-fetch-2.6.1
+    
+    Bump node-fetch from 2.6.0 to 2.6.1
+
+[33mcommit 6bf9523fb53b1f78ab6155e62e0a4e5c246bcc37[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Sep 12 21:40:01 2020 +0000
+
+    Bump node-fetch from 2.6.0 to 2.6.1
+    
+    Bumps [node-fetch](https://github.com/bitinn/node-fetch) from 2.6.0 to 2.6.1.
+    - [Release notes](https://github.com/bitinn/node-fetch/releases)
+    - [Changelog](https://github.com/node-fetch/node-fetch/blob/master/docs/CHANGELOG.md)
+    - [Commits](https://github.com/bitinn/node-fetch/compare/v2.6.0...v2.6.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit a046d2dbb5ab7265e1f8d87c94984d9d9b3a7fc0[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Sep 11 23:15:44 2020 +0000
+
+    Bump http-proxy from 1.18.0 to 1.18.1
+    
+    Bumps [http-proxy](https://github.com/http-party/node-http-proxy) from 1.18.0 to 1.18.1.
+    - [Release notes](https://github.com/http-party/node-http-proxy/releases)
+    - [Changelog](https://github.com/http-party/node-http-proxy/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/http-party/node-http-proxy/compare/1.18.0...1.18.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 659495e5c1c48dd3c8e60b0cb42436a4693c030c[m
+Merge: 85eb6b85 4b95a0f6
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Aug 3 10:16:03 2020 -0400
+
+    Merge pull request #17 from 4GeeksAcademy/dependabot/npm_and_yarn/elliptic-6.5.3
+    
+    Bump elliptic from 6.5.2 to 6.5.3
+
+[33mcommit 4b95a0f6b74bb624d8bb045598d53f2e4cd0bfe3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Aug 2 00:52:22 2020 +0000
+
+    Bump elliptic from 6.5.2 to 6.5.3
+    
+    Bumps [elliptic](https://github.com/indutny/elliptic) from 6.5.2 to 6.5.3.
+    - [Release notes](https://github.com/indutny/elliptic/releases)
+    - [Commits](https://github.com/indutny/elliptic/compare/v6.5.2...v6.5.3)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 85eb6b85d4260b321ba0eeffd1e825081b71d9b3[m
+Merge: 3e195581 23afa007
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Jul 20 18:23:24 2020 -0400
+
+    Merge pull request #14 from 4GeeksAcademy/dependabot/npm_and_yarn/websocket-extensions-0.1.4
+    
+    Bump websocket-extensions from 0.1.3 to 0.1.4
+
+[33mcommit 3e1955818ecc5753a45e68bdd92d3a4cc2abaf3c[m
+Merge: 07653901 56065b43
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Jul 20 18:23:09 2020 -0400
+
+    Merge pull request #16 from 4GeeksAcademy/dependabot/npm_and_yarn/lodash-4.17.19
+    
+    Bump lodash from 4.17.15 to 4.17.19
+
+[33mcommit 56065b43e0951d1545dd6926d77a87b093632dcd[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jul 20 17:14:07 2020 +0000
+
+    Bump lodash from 4.17.15 to 4.17.19
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.15 to 4.17.19.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.15...4.17.19)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 07653901b13162b2bd471592a4a74c5c5fb2f55d[m
+Merge: ca02bc30 56630750
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sun Jul 19 21:08:05 2020 -0400
+
+    Merge pull request #15 from jferragut/patch-1
+    
+    Removed silent logging of errors on webpack config
+
+[33mcommit 56630750d2bfa2fe9bf63a42524db22f44acfd76[m
+Author: Jonathan Ferragut <jonnywrites@gmail.com>
+Date:   Sat Jul 18 12:24:22 2020 -0400
+
+    Removed silent logging of errors on webpack config
+    
+    quiet: true was causing issues with students not being able to compile their app if errors were present.
+
+[33mcommit 23afa0071d1282bc1f95b2427be262e008351081[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jun 8 07:12:26 2020 +0000
+
+    Bump websocket-extensions from 0.1.3 to 0.1.4
+    
+    Bumps [websocket-extensions](https://github.com/faye/websocket-extensions-node) from 0.1.3 to 0.1.4.
+    - [Release notes](https://github.com/faye/websocket-extensions-node/releases)
+    - [Changelog](https://github.com/faye/websocket-extensions-node/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/faye/websocket-extensions-node/compare/0.1.3...0.1.4)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit ca02bc30974f33732986221032380587dcfb96e6[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 15 01:34:10 2020 +0000
+
+    fixing boilerplate
+
+[33mcommit aff99d04a960d088e4e8199d7a1b4fb9311b0260[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri May 15 01:18:10 2020 +0000
+
+    fixing the boilerplate
+
+[33mcommit 9ad1e6caf7dc757a8205cc4b1c0bd684f76f1804[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 7 21:04:32 2020 +0000
+
+    updated gitpod for opening preview window
+
+[33mcommit 27b563a45d4440214fa3d686651117793db2c71c[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 7 20:57:49 2020 +0000
+
+    updated packages
+
+[33mcommit f90606f75e2350915a0d09725068ae2e7f8d52bb[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 7 15:42:01 2020 -0400
+
+    Update README.md
+
+[33mcommit 349ac2657e2542c65952fbda60061a6b1bfce892[m
+Merge: 026c709b 978cae8a
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 7 15:41:14 2020 -0400
+
+    Merge pull request #13 from 4GeeksAcademy/add-license-1
+    
+    Create LICENSE
+
+[33mcommit 978cae8a4c3990063a15d05df46d6558e9ef943e[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 7 15:40:43 2020 -0400
+
+    Create LICENSE
+
+[33mcommit 026c709b41450b191d003788d1b2f20c80488fc5[m
+Merge: 8dc2d8b1 0e4e029a
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 7 15:10:07 2020 -0400
+
+    Merge pull request #8 from 4GeeksAcademy/dependabot/npm_and_yarn/bootstrap-4.3.1
+    
+    Bump bootstrap from 4.1.2 to 4.3.1
+
+[33mcommit 8dc2d8b1cba79a8fe57f51d8d1f63ebce7165e5a[m
+Merge: be0d9d9c 7b8a6e8b
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 7 15:10:01 2020 -0400
+
+    Merge pull request #9 from 4GeeksAcademy/dependabot/npm_and_yarn/lodash.mergewith-4.6.2
+    
+    Bump lodash.mergewith from 4.6.1 to 4.6.2
+
+[33mcommit be0d9d9c84ad570c45046c15d3dedf43df9bab85[m
+Merge: 7283a25e 2de63c4f
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 7 15:09:53 2020 -0400
+
+    Merge pull request #11 from 4GeeksAcademy/dependabot/npm_and_yarn/tar-2.2.2
+    
+    Bump tar from 2.2.1 to 2.2.2
+
+[33mcommit 7283a25e97d974f940880b5e126a3b83681eed80[m
+Merge: bf6cd051 8b7e8d0a
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 7 15:09:40 2020 -0400
+
+    Merge pull request #12 from 4GeeksAcademy/dependabot/npm_and_yarn/lodash-4.17.15
+    
+    Bump lodash from 4.17.11 to 4.17.15
+
+[33mcommit bf6cd051dfbc5dfb36132d2587fcd818da63f9bd[m
+Merge: 954814a5 e666a6bd
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Nov 4 09:55:54 2019 -0500
+
+    Merge pull request #10 from 4GeeksAcademy/dependabot/npm_and_yarn/fstream-1.0.12
+    
+    Bump fstream from 1.0.11 to 1.0.12
+
+[33mcommit 8b7e8d0af0e1a6cc46d5297fceef1bbc4a28deaa[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 00:25:03 2019 +0000
+
+    Bump lodash from 4.17.11 to 4.17.15
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.11 to 4.17.15.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.11...4.17.15)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2de63c4fe080eb78ef405f4f4cc4401d8094b879[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 00:25:02 2019 +0000
+
+    Bump tar from 2.2.1 to 2.2.2
+    
+    Bumps [tar](https://github.com/npm/node-tar) from 2.2.1 to 2.2.2.
+    - [Release notes](https://github.com/npm/node-tar/releases)
+    - [Commits](https://github.com/npm/node-tar/compare/v2.2.1...v2.2.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit e666a6bd36a926a72c777694779ba8236261c6ff[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 00:25:01 2019 +0000
+
+    Bump fstream from 1.0.11 to 1.0.12
+    
+    Bumps [fstream](https://github.com/npm/fstream) from 1.0.11 to 1.0.12.
+    - [Release notes](https://github.com/npm/fstream/releases)
+    - [Commits](https://github.com/npm/fstream/compare/v1.0.11...v1.0.12)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 7b8a6e8be8145da4a0bf29f57db27d38bba8c235[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 00:24:54 2019 +0000
+
+    Bump lodash.mergewith from 4.6.1 to 4.6.2
+    
+    Bumps [lodash.mergewith](https://github.com/lodash/lodash) from 4.6.1 to 4.6.2.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 0e4e029a82e54a68b418c41690a72100def364ea[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Nov 3 00:24:53 2019 +0000
+
+    Bump bootstrap from 4.1.2 to 4.3.1
+    
+    Bumps [bootstrap](https://github.com/twbs/bootstrap) from 4.1.2 to 4.3.1.
+    - [Release notes](https://github.com/twbs/bootstrap/releases)
+    - [Commits](https://github.com/twbs/bootstrap/compare/v4.1.2...v4.3.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 954814a5d450c7a2fd1c5cbfe7e54498b86abd89[m
+Merge: 2974f70e d7264724
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Nov 2 20:22:07 2019 -0400
+
+    Merge pull request #7 from 4GeeksAcademy/dependabot/npm_and_yarn/mixin-deep-1.3.2
+    
+    Bump mixin-deep from 1.3.1 to 1.3.2
+
+[33mcommit d72647248b9b762666bdd2faa10acddd7c536f20[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Nov 2 17:03:35 2019 +0000
+
+    Bump mixin-deep from 1.3.1 to 1.3.2
+    
+    Bumps [mixin-deep](https://github.com/jonschlinkert/mixin-deep) from 1.3.1 to 1.3.2.
+    - [Release notes](https://github.com/jonschlinkert/mixin-deep/releases)
+    - [Commits](https://github.com/jonschlinkert/mixin-deep/compare/1.3.1...1.3.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2974f70ed74f19544f92e4a7d83a1fdc1908fa4d[m
+Merge: f3694762 82eafdb0
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Oct 26 12:33:37 2019 -0400
+
+    Merge pull request #6 from hernanjkd/master
+    
+    Update README.md
+
+[33mcommit 82eafdb0245a34057831613aba8295aa9ce36820[m
+Author: Hernán García <hernanjkd@gmail.com>
+Date:   Fri Oct 25 16:18:47 2019 -0400
+
+    Update README.md
+
+[33mcommit f3694762b93313d07c66aefc03c3ea41a4e8d8cf[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Sep 16 05:50:33 2019 +0000
+
+    new version of vanilajs
+
+[33mcommit b181985f6ef22f44548f388176d820dc65a76710[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Aug 5 22:35:25 2019 -0400
+
+    Update README.md
+
+[33mcommit f0d7353119dcca3389096f1d80f7fe9b6762a9fc[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu May 9 02:44:47 2019 -0400
+
+    Update webpack.config.js
+
+[33mcommit da42a77969057b864254d3656b2f44e8d4dda650[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu May 9 06:21:55 2019 +0000
+
+    student error reporting done
+
+[33mcommit 98ef3f77671baa3011416310e8a929f2be7e3ee6[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu May 9 06:11:58 2019 +0000
+
+    error reporting to breathecode
+
+[33mcommit e99cc133a85315bbe6fcb2c5d582c3d83c678757[m
+Merge: 174e5570 f77e4532
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat May 4 18:41:20 2019 -0400
+
+    Merge pull request #5 from nachovz/patch-2
+    
+    Update README.md
+
+[33mcommit 174e55709b15b27c3db9657bb3697c7a50a6cee1[m
+Merge: 857d9f98 cf585ac1
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat May 4 18:41:08 2019 -0400
+
+    Merge pull request #4 from nachovz/patch-1
+    
+    Update .gitpod.yml
+
+[33mcommit f77e4532709d37adc363d0cb4062ed9a968bc440[m
+Author: Ignacio Cordoba <theignaciocordoba@gmail.com>
+Date:   Sat May 4 13:13:35 2019 -0400
+
+    Update README.md
+
+[33mcommit cf585ac183eafd0f7789efa06431829b585a8117[m
+Author: Ignacio Cordoba <theignaciocordoba@gmail.com>
+Date:   Sat May 4 13:11:14 2019 -0400
+
+    Update .gitpod.yml
+
+[33mcommit 857d9f98fab3964e0f14f016ed2df91d71430236[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Apr 24 15:22:24 2019 +0000
+
+    vanillajs ready
+
+[33mcommit e4f000513ac1c86e3a48ac6d0ef5232fa0d3b4d9[m
+Merge: e9fa8310 4c4bb711
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Apr 24 10:45:52 2019 -0400
+
+    Merge pull request #3 from alesanchezr/master
+    
+    fix on the gitpod
+
+[33mcommit 4c4bb7112da2e599ef9fdb3308435a341d396711[m
+Merge: 0571943b 8fa84a9b
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Apr 24 10:44:16 2019 -0400
+
+    Merge pull request #1 from AlexTugarev/master
+    
+    Update .gitpod.yml
+
+[33mcommit 8fa84a9be1bb23b11de99aa30ada0857fcdb495a[m
+Author: Alex Tugarev <alex.tugarev@typefox.io>
+Date:   Wed Apr 24 08:43:11 2019 +0000
+
+    Update .gitpod.yml
+
+[33mcommit e9fa83109ae9ffd83ed13fb280d14e974156aeb2[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 23 17:06:47 2019 +0000
+
+    small changes to the documentation
+
+[33mcommit 0571943b7f7682080608a87803bd7086e9dc3bf4[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 23 16:28:13 2019 +0000
+
+    last tweacks to make it work on gitpod
+
+[33mcommit 37ccfd043039344c0aebf0db119c3fc0e9fd6f3c[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 23 16:28:03 2019 +0000
+
+    last tweacks to make it work on gitpod
+
+[33mcommit 6deea26bf219e03c86cd11fe07ceac4b35bd5375[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 23 16:24:01 2019 +0000
+
+    ignoring the public folder
+
+[33mcommit ab6fa4d68f2ef86ff5fe6a36039ef68a3260733f[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 23 16:21:11 2019 +0000
+
+    better error reporting
+
+[33mcommit 4a077d34d91ea290464022ba244b3ed176252d98[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Apr 23 15:23:50 2019 +0000
+
+    deleted public folder, everything must come from inside src
+
+[33mcommit a636de709e7b19c1ade71cc0b243116e5a1f75fd[m
+Merge: a6e80e15 28826031
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 5 03:37:14 2018 +0000
+
+    merge
+
+[33mcommit a6e80e15bfc1b9b586e91f74aa0e08e6dc530aee[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Oct 5 03:36:28 2018 +0000
+
+    added automatic prettify with webpack
+
+[33mcommit 288260313958cf2e25aac6638485562f9f88718b[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Sep 22 17:14:16 2018 -0400
+
+    Update README.md
+
+[33mcommit 1d6a623680c99428d0046504bd42339b43ea383c[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Sep 22 17:13:22 2018 -0400
+
+    Update deploy-to-github.js
+
+[33mcommit 16b915fde529781da1e7daa69f5832dbfc1b2d0d[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Sep 19 03:31:31 2018 +0000
+
+    deploy to gihub updated
+
+[33mcommit 822e85a1c842863566a6b7766c95b88e805b7c11[m
+Merge: 87ee9081 141bbfe6
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Mon Sep 17 16:04:05 2018 -0400
+
+    Merge pull request #1 from jferragut/patch-1
+    
+    Update index.html
+
+[33mcommit 141bbfe69b14c1a5d3eaf182fc07a082b334a0ee[m
+Author: Jonathan Ferragut <jonnywrites@gmail.com>
+Date:   Mon Sep 17 14:31:42 2018 -0400
+
+    Update index.html
+    
+    Need to update folder path from ./asset to ./assets for the icon or it pulls a console error
+
+[33mcommit 87ee90812f9e423be5804602cebcbcdcd8e4ba19[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Sep 14 14:52:34 2018 -0400
+
+    Update deploy-to-github.js
+
+[33mcommit 9393c936137fd52de1bb3d3359aab2eb432a4623[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Aug 31 23:09:45 2018 -0400
+
+    Update README.md
+
+[33mcommit eb68b1a44cdf6391d0c9d6c0aee1be80c2ad6655[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Aug 31 23:09:11 2018 -0400
+
+    Update README.md
+
+[33mcommit 20f6348cb17bc4786644c212acf96a0d4137d040[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Aug 31 19:24:52 2018 -0400
+
+    Update README.md
+
+[33mcommit df791188b7542c7faa72d0d04b1cfe53d9754b95[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Aug 22 06:15:57 2018 +0000
+
+    one click deploy
+
+[33mcommit 467840f81615d39a6fd71f78c51c6cf729e75de2[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Aug 22 06:09:49 2018 +0000
+
+    deploy in one click
+
+[33mcommit 4d3e32b526773708f5b3631b6b54a0efa3f040d1[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Aug 22 06:08:48 2018 +0000
+
+    deploy in one click
+
+[33mcommit 61e7e76d84f5dd92f7138b7b70df8807a0fc7cc1[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 20:11:39 2018 +0000
+
+    fixed some vulnerabilities
+
+[33mcommit a70828a26f780eb32b541047f834145acf8c7ba3[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 20:09:00 2018 +0000
+
+    fixed some vulnerabilities
+
+[33mcommit bc174b51956f3dd91fb88b22dd795530f895370f[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 20:07:54 2018 +0000
+
+    fixed some vulnerabilities
+
+[33mcommit 2bdc97c95e6795a337140f93698c6e1cfc43ca79[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 20:07:07 2018 +0000
+
+    fixed some vulnerabilities
+
+[33mcommit 3cd1ed20bafb4969ab8657d737ec5acaf62e39a3[m
+Merge: 70f07298 6ad7380c
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 20:00:43 2018 +0000
+
+    small fixes
+
+[33mcommit 70f072981b89e5c2544710e2328f0ba72710c2b5[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 19:42:36 2018 +0000
+
+    nodemodules out
+
+[33mcommit 6ad7380c76c244cec485044d1c4181f695efe9c7[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 15:25:53 2018 -0400
+
+    Update README.md
+
+[33mcommit 09d6984830115e3f563892c0d168482fb31225d8[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 15:24:27 2018 -0400
+
+    Update README.md
+
+[33mcommit 697bcd578475b9f5854768bda683e13e9142e8c6[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 15:23:07 2018 -0400
+
+    Update README.md
+
+[33mcommit 5fea3fdf92a2142a3d592e2b8c13c8f8267a0455[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 15:21:11 2018 -0400
+
+    Update README.md
+
+[33mcommit d8ae0daa7a0acaeb31a61135cf2ed375232d363c[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 05:32:51 2018 +0000
+
+    test
+
+[33mcommit aa2d7a21b070e08c4bd67c549f58b6a407747cb2[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 05:29:11 2018 +0000
+
+    test
+
+[33mcommit 0fd30d0e20dc1858eecd7ef7ac6d0bc4707a7201[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 05:26:36 2018 +0000
+
+    test
+
+[33mcommit c0f7512146ee5269c571aa152538e98e4564ee20[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 05:22:04 2018 +0000
+
+    test
+
+[33mcommit 4a4cf988bb71699f10788d4ea9c35c51d966e5bd[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Aug 21 05:21:24 2018 +0000
+
+    test
+
+[33mcommit 06660c74d9a30492fe2ec78db63d2753a70c7542[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Tue Jul 24 04:16:43 2018 +0000
+
+    added the breathecode-dom for more explicit errors
+
+[33mcommit cf62c6bb9314c8d11f044ac1059badaf41f7820a[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Jul 5 18:17:55 2018 -0400
+
+    Update index.html
+
+[33mcommit 58864ff7fc273e82f1debfc8a8ed938c95b21366[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Wed Jun 6 22:05:43 2018 -0400
+
+    Update package.json
+
+[33mcommit ef00544c261c3f651237f8b0097a7bd7e9f39078[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Apr 28 21:46:00 2018 -0400
+
+    Update README.md
+
+[33mcommit 238a198f706d890e4f5881bd06cb48b06e7c230a[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Apr 28 21:45:23 2018 -0400
+
+    Update README.md
+
+[33mcommit fff4eb5b9d1d22e259fac00cff4a0785442d2b0d[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Sat Apr 28 21:44:15 2018 -0400
+
+    Update README.md
+
+[33mcommit 93634b56581940329bda650b59a9a21983072d1a[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 27 21:24:09 2018 -0400
+
+    Update README.md
+
+[33mcommit 0da248ee7286f7af98a69469e2044f151a7c7b7f[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 27 20:34:33 2018 -0400
+
+    Update README.md
+
+[33mcommit 8359e428a85e36a8f93620cb364542578fb32a1c[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Fri Apr 27 20:31:35 2018 -0400
+
+    Update README.md
+
+[33mcommit 2da4c3cddaa56b1fd2f30b3a0db78eae4b7ce8b8[m
+Author: Alejandro Sanchez <aalejo@gmail.com>
+Date:   Thu Apr 19 18:29:25 2018 +0000
+
+    initial commit
